@@ -101,6 +101,7 @@ else
 }
 
 // Congrats Message
-
+Console.WriteLine("Congrats! You get....... Nothing!");
+Thread.Sleep(500);
 // End
 Console.ReadLine();
